@@ -1,4 +1,4 @@
-var recipes = { eggs: "one" }
+var recipes = { eggs: "one", milk: "two" }
 
 function updateObjectWithKeyAndValue(object, key, value) {
 
